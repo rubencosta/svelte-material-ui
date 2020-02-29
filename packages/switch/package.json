@@ -29,7 +29,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@material/switch": "^3.2.0",
-    "@smui/common": "https://gitpkg.now.sh/rubencosta/svelte-material-ui/packages/common?965a711ff4ac7c65e995c8147da487f5070f9c9c"
+    "@smui/common": "https://gitpkg.now.sh/rubencosta/svelte-material-ui/packages/common?6604bf427a2ca22e7fd07dd322a512398e71e1c9"
   },
   "devDependencies": {
     "glob-cmd": "0.0.7",

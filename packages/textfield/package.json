@@ -32,10 +32,10 @@
     "@material/ripple": "^3.2.0",
     "@material/rtl": "^3.2.0",
     "@material/textfield": "^3.2.0",
-    "@smui/common": "https://gitpkg.now.sh/rubencosta/svelte-material-ui/packages/common?965a711ff4ac7c65e995c8147da487f5070f9c9c",
-    "@smui/floating-label": "https://gitpkg.now.sh/rubencosta/svelte-material-ui/packages/floating-label?965a711ff4ac7c65e995c8147da487f5070f9c9c",
-    "@smui/line-ripple": "https://gitpkg.now.sh/rubencosta/svelte-material-ui/packages/line-ripple?965a711ff4ac7c65e995c8147da487f5070f9c9c",
-    "@smui/notched-outline": "https://gitpkg.now.sh/rubencosta/svelte-material-ui/packages/notched-outline?965a711ff4ac7c65e995c8147da487f5070f9c9c"
+    "@smui/common": "https://gitpkg.now.sh/rubencosta/svelte-material-ui/packages/common?6604bf427a2ca22e7fd07dd322a512398e71e1c9",
+    "@smui/floating-label": "https://gitpkg.now.sh/rubencosta/svelte-material-ui/packages/floating-label?6604bf427a2ca22e7fd07dd322a512398e71e1c9",
+    "@smui/line-ripple": "https://gitpkg.now.sh/rubencosta/svelte-material-ui/packages/line-ripple?6604bf427a2ca22e7fd07dd322a512398e71e1c9",
+    "@smui/notched-outline": "https://gitpkg.now.sh/rubencosta/svelte-material-ui/packages/notched-outline?6604bf427a2ca22e7fd07dd322a512398e71e1c9"
   },
   "devDependencies": {
     "glob-cmd": "0.0.7",
